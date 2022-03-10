@@ -5,6 +5,6 @@ All vulnerability and security flaw reports should be PGP encrypted with our pub
 
 From there it will be reviewed and you will be contacted by our security team for additional steps and details.  If public disclosure is requested, a timeline will be established.  
 
-Link to our key: [Public PGP Key](https://github.com/acronisscs/public_disclosure/master/Dislosure_PGP_Public%20.asc)  
+Link to our key: [Public PGP Key](https://github.com/acronisscs/public_disclosure/blob/master/Dislosure_PGP_Public%20.asc)  
 
 Email for submission: appsupport@acronisscs.com
