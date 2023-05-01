@@ -37,6 +37,6 @@ the product is installed in a certified environment.
 [email]: <mailto:AppSupport@AcronisSCS.com>
 [gnupg]: <https://gnupg.org/>
 [hardened-edition-caveats]: <https://support.acronisscs.com/hc/en-us/articles/4521101393427-SCS-KB-1066-Acronis-SCS-Cyber-Backup-12-5-Hardened-Edition-Caveats>
-[pubkey]: <Disclosure_PGP_Public .asc>
+[pubkey]: <disclosure.pub.asc>
 [support]: <https://support.acronisscs.com/hc/en-us>
 [website]: <https://acronisscs.com/index/>
