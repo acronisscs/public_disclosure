@@ -32,7 +32,7 @@ the product is installed in a certified environment.
 + [SCS KB 1066: Hardened Edition Caveats][hardened-edition-caveats]
 
 <!-- Links -->
-[contact]: <https://acronisscs.com/contact-us/>
+[contact]: <https://support.acronisscs.com/hc/en-us/requests/new>
 [disclosure-kb]: <https://support.acronisscs.com/hc/en-us/articles/360038687773-SCS-KB-1010-Responsible-disclosure-process-for-submitting-vulnerability-and-security-flaw-reports>
 [email]: <mailto:AppSupport@AcronisSCS.com>
 [gnupg]: <https://gnupg.org/>
